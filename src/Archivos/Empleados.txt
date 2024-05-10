@@ -1,0 +1,2 @@
+AdminRRHH,DNI,74618006,Joseph,Cconislla Puma,Soltero,Jr.Ancash,17/06/2001,955212342,1,17/06/2024,,true,1500,true
+SoporteTecnico,DNI,74618007,Cri,Lope Puma,Casado,Jr. Ancash Cooperación,23/03/1999,95521323,2,23/03/2020,,true,1200,Computadoras
